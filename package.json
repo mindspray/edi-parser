@@ -1,0 +1,15 @@
+{
+  "name": "x12-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "850-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-x12": "^1.7.1"
+  }
+}
